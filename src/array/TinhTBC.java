@@ -15,6 +15,6 @@ public class TinhTBC {
             mang[i] = sc.nextInt();
             sum += mang[i];
         }
-        System.out.println("Tong cac so trong mang la: " + sum);
+        System.out.println("Trung Binh Cong cac so trong mang la: " + sum/so);
     }
 }
